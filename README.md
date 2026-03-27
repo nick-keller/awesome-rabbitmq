@@ -7,6 +7,8 @@ An Awesome List of RabbitMQ Resources
 The tools you absolutely needs to deal with RabbitMQ in your daily
 activity.
 
+[`RabbitGUI`](https://rabbitgui.com/): A GUI for managing RAbbitMQ on you windows, Mac, or Linux
+
 [`amqp_client`](https://github.com/jbrisbin/amqp_client):  Rebar-friendly fork of rabbitmq-erlang-client 
 
 [`rabbithub`](https://github.com/tonyg/rabbithub): Experimental RabbitMQ PubSubHubBub interface
